@@ -1,6 +1,20 @@
-# project-management
+# 📋 project-management
 
-Repositorio dedicado a la gestión de proyectos, planificación, tareas y toma de decisiones estratégicas.
+Este repositorio contiene la  gestión de proyectos, planificación, seguimiento y documentación general de los distintos proyectos de la organización **JuanitoSoftware**.
+
+## 📌 Proyectos principales
+
+- [🛠️ SpringlessEasyBatcher](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/SpringlessEasyBatcher)
+- [🎮 MultifuncionFPS](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/MultifuncionFPS)
+- [🎧 Cuajaos Voice Chat](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/cuajaos_voice_chat)
+- [🎶 Reproductor Python](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/Reproductor_Python)
+- [📻 Radio Python](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/Radio_Python)
+- [📤 Enviar Archivos Python](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/Enviar_Archivos_Python)
+- [🩺 PC Health Sistema](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/PC_Health_Sistema)
+- [🎬 MatrixEffect](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/MatrixEffect)
+- ...
+
+Cada proyecto cuenta con su ficha técnica detallada en la carpeta `/projects`.
 
 ## Uso
 
