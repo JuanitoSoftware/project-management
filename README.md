@@ -13,6 +13,7 @@ Este repositorio contiene la  gestión de proyectos, planificación, seguimiento
 - [🩺 PC Health Sistema](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/PC_Health_Sistema)
 - [🤖 GPTDevTeam](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/GPTDevTeam)
 - [🎬 MatrixEffect](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/MatrixEffect)
+- [🎶 YoutubeToMp3](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/YoutubeToMp3)
 - ...
 
 Cada proyecto cuenta con su ficha técnica detallada en la carpeta `/projects`.
