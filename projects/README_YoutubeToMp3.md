@@ -97,13 +97,17 @@ python batch_downloader.py
 
 ---
 
-## Licencia
+## 📃 Licencia
 
-© 2025 Juanito Software. Todos los derechos reservados.
+Este programa es software libre: puedes redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU, versión 3 o cualquier versión posterior.
+
+Consulta la licencia completa para más detalles.
+Más información: [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
+
+© 2025 JuanitoSoftware&Games
 
 ---
 
-## Autor
+## 📬 Contacto
 
-**Juanito Software 2025**  
-📧 Contacto: [soporte@juanitosoftware.com](mailto:soporte@juanitosoftware.com)
+📧 bernaldezperedaj@gmail.com
