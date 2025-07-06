@@ -1,4 +1,4 @@
-# 📻 Radio Player con Efecto Matrix
+# 📻 Radio Player - Ficha Técnica
 
 ### Desarrollado por **JuanitoSoftware&Games** – 2025  
 Licencia: [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)
