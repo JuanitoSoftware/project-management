@@ -75,10 +75,11 @@ python main.py
 - Este software **no garantiza** la calidad de la conversión, depende de los códecs disponibles en FFmpeg.
 - Si FFmpeg no está en el PATH del sistema, se puede incluir una versión local en el directorio `ffmpeg/`.
 
-## ⚖️ Licencia
+## ⚖️ 📃 Licencia
+Este programa es software libre: puedes redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU, versión 3 o cualquier versión posterior.
 
-Este proyecto está licenciado bajo los términos de la **GNU General Public License v3.0**. Consulta el archivo `LICENSE` o visita [gnu.org](https://www.gnu.org/licenses/) para más información.
+Consulta la licencia completa para más detalles.
 
----
+© 2025 JuanitoSoftware
 
-© 2025 Juanito Software
+Contacto: bernaldezperedaj@gmail.com
