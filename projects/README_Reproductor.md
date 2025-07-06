@@ -121,19 +121,6 @@ Este proyecto está abierto a mejoras y colaboraciones. Puedes:
 
 ---
 
-## 📃 Licencia
-
-Este programa es software libre: puedes redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU, versión 3 o cualquier versión posterior.
-
-Consulta la licencia completa para más detalles.
-Más información: [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
-
-© 2025 JuanitoSoftware&Games
-
-Contacto: bernaldezperedaj@gmail.com
-
----
-
 ## 🌐 Futuras mejoras (roadmap)
 
 - [ ] Soporte para listas de reproducción.
@@ -145,4 +132,17 @@ Contacto: bernaldezperedaj@gmail.com
 
 ---
 
-¡Gracias por usar este software libre y apoyar el desarrollo independiente! 🎶
+## 📃 Licencia
+
+Este programa es software libre: puedes redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU, versión 3 o cualquier versión posterior.
+
+Consulta la licencia completa para más detalles.
+Más información: [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
+
+© 2025 JuanitoSoftware
+
+---
+
+## 📬 Contacto
+
+📧 bernaldezperedaj@gmail.com
