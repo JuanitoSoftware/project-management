@@ -1,4 +1,4 @@
-# 🖥️ SystemInfoApp
+# 🖥️ PCHealtASistema/SystemInfoApp - Ficha Técnica 
 
 **SystemInfoApp** es una aplicación de escritorio desarrollada en Python con interfaz gráfica (Tkinter) que permite visualizar en tiempo real información avanzada del sistema operativo, procesador, memoria RAM, tarjeta gráfica, almacenamiento y otros componentes clave del equipo. 
 
