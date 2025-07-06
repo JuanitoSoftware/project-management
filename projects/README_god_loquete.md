@@ -1,4 +1,4 @@
-# Ficha Técnica: God Loquete
+# God Loquete - Ficha Técnica
 
 **Nombre del Proyecto:** God Loquete  
 **Autor:** Juanito Software  
