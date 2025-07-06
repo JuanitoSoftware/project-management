@@ -91,22 +91,18 @@ _Asegúrate de incluir `matrix_effect.exe` en el mismo directorio que el `.exe` 
 
 ---
 
-## 🔒 Licencia
-
-Este programa es software libre, licenciado bajo los términos de la **Licencia Pública General de GNU v3**.  
-Puedes redistribuirlo y/o modificarlo bajo los términos de dicha licencia.  
-Consulta el archivo `LICENSE` o visita [https://www.gnu.org/licenses/](https://www.gnu.org/licenses/) para más información.
-
----
-
----
-
 ## 📃 Licencia
 
 Este programa es software libre: puedes redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU, versión 3 o cualquier versión posterior.
 
 Consulta la licencia completa para más detalles.
+Más información: [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
 
-© 2025 JuanitoSoftware&Games
+© 2025 JuanitoSoftware
 
+---
+
+## 📬 Contacto
+
+📧 bernaldezperedaj@gmail.com
 Contacto: bernaldezperedaj@gmail.com
