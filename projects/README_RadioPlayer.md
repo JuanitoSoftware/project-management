@@ -99,8 +99,14 @@ Consulta el archivo `LICENSE` o visita [https://www.gnu.org/licenses/](https://w
 
 ---
 
-## 👨‍💻 Autor
+---
 
-**JuanitoSoftware&Games**  
-Año: 2025  
+## 📃 Licencia
+
+Este programa es software libre: puedes redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU, versión 3 o cualquier versión posterior.
+
+Consulta la licencia completa para más detalles.
+
+© 2025 JuanitoSoftware&Games
+
 Contacto: bernaldezperedaj@gmail.com
