@@ -1,5 +1,5 @@
 
-# 📦 Transferencia de Archivos - Versión TCP
+# 📦 Transferencia de Archivos - Versión TCP - Ficha Técnica
 
 **Autor:** JuanitoSoftware&Games  
 **Licencia:** [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.html)  
