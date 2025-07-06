@@ -95,4 +95,16 @@ pip install pillow pywin32 opencv-python numpy mss keyboard ultralytics
 
 ## Opinión personal
 
-Este software es un ejemplo sobresaliente de herramientas gamer con superposición visual avanzada, personalización total, y visión por computador. Su arquitectura modular permite ampliaciones futuras (grabación de clips, integración con OBS, IA contextual, etc.). Está optimizado para entornos Windows y es ideal para jugadores, testers de videojuegos o desarrolladores de mods.
+Este software es un ejemplo sobresaliente de herramientas gamer con superposición visual avanzada, personalización total, y visión por computador. Su arquitectura modular permite ampliaciones futuras (grabación de clips, integración con OBS, IA contextual, etc.). Está optimizado para entornos Windows y es ideal para jugadores.
+
+---
+
+## 📃 Licencia
+
+Este programa es software libre: puedes redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU, versión 3 o cualquier versión posterior.
+
+Consulta la licencia completa para más detalles.
+
+© 2025 JuanitoSoftware&Games
+
+Contacto: bernaldezperedaj@gmail.com
