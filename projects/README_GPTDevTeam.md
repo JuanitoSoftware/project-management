@@ -1,4 +1,4 @@
-# 🧾 Ficha Técnica - Juanito Software 2025
+# 🧾 GPTDevTeam - Ficha Técnica
 
 ## 🧠 Descripción General
 
