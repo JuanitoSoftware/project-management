@@ -57,10 +57,19 @@ python god_loquete.py
 - Pulsar **Salir** para desconectarse.
 - El programa detecta automáticamente si debe actuar como host o cliente.
 
-## Licencia
+---
 
-Este proyecto está licenciado bajo la **GNU GPL v3.0**. Ver [LICENSE](https://www.gnu.org/licenses/gpl-3.0.html) para más detalles.
+## 📃 Licencia
+
+Este programa es software libre: puedes redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU, versión 3 o cualquier versión posterior.
+
+Consulta la licencia completa para más detalles.
+Más información: [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
+
+© 2025 JuanitoSoftware&Games
 
 ---
 
-© 2025 Juanito Software. Todos los derechos reservados bajo los términos de la GNU GPL v3.
+## 📬 Contacto
+
+📧 bernaldezperedaj@gmail.com
