@@ -61,11 +61,12 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## 📄 Licencia
+---
 
-Este proyecto puede distribuirse bajo licencia MIT, GPL o interna, según corresponda.
+## 📃 Licencia
 
-## 👤 Autor
+Este programa es software libre: puedes redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU, versión 3 o cualquier versión posterior.
 
-**Juan Fernández**  
-*Desarrollador de Software y Sistemas*
+Consulta la licencia completa para más detalles.
+
+© 2025 JuanitoSoftware
