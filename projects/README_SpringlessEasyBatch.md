@@ -46,9 +46,20 @@ pip install pandas requests sqlalchemy psycopg2
 
 ---
 
-## 🧠 Estructura de uso
+## 🧠 Pasos de uso
+1. Crea tu archivo con la clase @dataclass (ej: dataclass_template.py)
+2. Ejecuta: SpringlessEasyBatch.exe
+3. Introduce los datos necesarios:
+   Introduce la ruta de tu clase @dataclass
+   Introduce el nombre de tu clase @dataclass
+   Introduce el tipo de entrada (`csv`, `api`, `db`)
+   Introduce la Ruta de entrada (archivo CSV, URL o string de conexión SQLAlchemy)
+   Introduce el tipo de salida (`csv`, `api`, `db`)
+   Introduce la Ruta de salida (archivo CSV, URL o string de conexión SQLAlchemy)
 
-### 1. Define tu clase de entidad
+## 🧠 Explicacion Pasos de uso
+
+-1. Define tu clase de entidad personalizada @dataclass
 
 Ejemplo:
 ```python
@@ -60,20 +71,20 @@ class Persona:
     first_name: str
     last_name: str
 ```
-### 2. Ejecuta el pipeline
 
-```python
-from batch_processor import run_pipeline
+-2. Ejecuta el .exe
 
-run_pipeline(Persona)
-```
+Ejecuta SpringlessEasyBatch.exe
+
+-3. Introduce los datos necesarios
 
 El script pedirá en consola:
-
+- Ruta de tu clase personalizada dataclass
+- Nombre de tu clase personaliada dataclass
 - Tipo de entrada (`csv`, `api`, `db`)
 - Ruta de entrada (archivo CSV, URL o string de conexión SQLAlchemy)
-- Tipo de salida
-- Ruta de salida (formato similar al anterior)
+- Tipo de salida (`csv`, `api`, `db`)
+- Ruta de salida (archivo CSV, URL o string de conexión SQLAlchemy)
 - Si se selecciona base de datos, se pedirá el nombre de la tabla
 
 ---
@@ -155,22 +166,12 @@ Más detalles en el archivo `LICENSE.txt`.
 
 ---
 
-## 📬 Contacto
-
-Para dudas, colaboraciones o sugerencias:
-
-📧 **bernaldezperedaj@gmail.com**
-
----
-
----
-
 ## 📃 Licencia
 
-Este programa es software libre: puedes redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU, versión 3 o cualquier versión posterior.
+Este programa tiene un licencia perosnalizada de uso no comercial
 
 Consulta la licencia completa para más detalles.
-Más información: [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
+Más información: [LICENSE.txt](./LICENSE.txt)
 
 © 2025 JuanitoSoftware&Games
 
