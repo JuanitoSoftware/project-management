@@ -14,6 +14,7 @@ Este repositorio contiene la  gestión de proyectos, planificación, seguimiento
 - [🤖 GPTDevTeam](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/GPTDevTeam)
 - [🎬 MatrixEffect](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/MatrixEffect)
 - [🎶 YoutubeToMp3](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/YoutubeToMp3)
+- [🎶 ConvertidorAudio](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/FFMPEG_UI)
 - ...
 
 Cada proyecto cuenta con su ficha técnica detallada en la carpeta `/projects`.
