@@ -162,3 +162,18 @@ Para dudas, colaboraciones o sugerencias:
 📧 **bernaldezperedaj@gmail.com**
 
 ---
+
+---
+
+## 📃 Licencia
+
+Este programa es software libre: puedes redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU, versión 3 o cualquier versión posterior.
+
+Consulta la licencia completa para más detalles.
+Más información: [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
+
+© 2025 JuanitoSoftware&Games
+
+## 📬 Contacto
+
+📧 bernaldezperedaj@gmail.com
