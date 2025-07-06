@@ -105,4 +105,3 @@ Más información: [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.o
 ## 📬 Contacto
 
 📧 bernaldezperedaj@gmail.com
-Contacto: bernaldezperedaj@gmail.com
