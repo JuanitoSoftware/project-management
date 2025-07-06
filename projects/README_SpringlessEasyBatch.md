@@ -50,12 +50,12 @@ pip install pandas requests sqlalchemy psycopg2
 1. Crea tu archivo con la clase @dataclass (ej: dataclass_template.py)
 2. Ejecuta: SpringlessEasyBatch.exe
 3. Introduce los datos necesarios:
-   Introduce la ruta de tu clase @dataclass
-   Introduce el nombre de tu clase @dataclass
-   Introduce el tipo de entrada (`csv`, `api`, `db`)
-   Introduce la Ruta de entrada (archivo CSV, URL o string de conexión SQLAlchemy)
-   Introduce el tipo de salida (`csv`, `api`, `db`)
-   Introduce la Ruta de salida (archivo CSV, URL o string de conexión SQLAlchemy)
+   - Introduce la ruta de tu clase @dataclass
+   - Introduce el nombre de tu clase @dataclass
+   - Introduce el tipo de entrada (`csv`, `api`, `db`)
+   - Introduce la Ruta de entrada (archivo CSV, URL o string de conexión SQLAlchemy)
+   - Introduce el tipo de salida (`csv`, `api`, `db`)
+   - Introduce la Ruta de salida (archivo CSV, URL o string de conexión SQLAlchemy)
 
 ## 🧠 Explicacion Pasos de uso
 
