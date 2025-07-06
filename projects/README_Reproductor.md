@@ -121,19 +121,16 @@ Este proyecto está abierto a mejoras y colaboraciones. Puedes:
 
 ---
 
-## 🛡️ Licencia
+## 📃 Licencia
 
-Este proyecto está licenciado bajo la **GNU General Public License v3.0**.  
-Puedes usar, modificar y distribuir el software siempre que mantengas esta licencia.
+Este programa es software libre: puedes redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU, versión 3 o cualquier versión posterior.
 
+Consulta la licencia completa para más detalles.
 Más información: [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
 
----
+© 2025 JuanitoSoftware&Games
 
-## 👤 Autor
-
-**JuanitoSoftware&Games**  
-📍 Santa María de Cayón, Cantabria, España  
+Contacto: bernaldezperedaj@gmail.com
 
 ---
 
