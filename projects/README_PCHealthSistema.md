@@ -69,4 +69,6 @@ Este programa es software libre: puedes redistribuirlo y/o modificarlo bajo los 
 
 Consulta la licencia completa para más detalles.
 
-© 2025 JuanitoSoftware
+© 2025 JuanitoSoftware&Games
+
+Contacto: bernaldezperedaj@gmail.com
