@@ -109,3 +109,13 @@ python main.py
 - **El sistema puede generar código no seguro si el prompt lo induce.**
 
 ---
+
+## 📃 Licencia
+
+Este programa es software libre: puedes redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU, versión 3 o cualquier versión posterior.
+
+Consulta la licencia completa para más detalles.
+
+© 2025 JuanitoSoftware&Games
+
+Contacto: bernaldezperedaj@gmail.com
