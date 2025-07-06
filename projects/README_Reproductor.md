@@ -1,4 +1,4 @@
-# 🎵 Reproductor de Audio en Python
+# 🎵 Reproductor de Audio - Ficha Técnica
 
 **Versión:** 1.0  
 **Autor:** JuanitoSoftware&Games  
