@@ -1,4 +1,4 @@
-# 🎧 Juanito Software 2025 - YoutubeToMp3
+# 🎧 YoutubeToMp3 - Ficha Técnica
 
 ## Descripción
 
