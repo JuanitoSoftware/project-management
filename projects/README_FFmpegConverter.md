@@ -1,4 +1,4 @@
-# Ficha Técnica - FFmpeg Audio Converter GUI
+FFmpeg Audio Converter GUI - Ficha Técnica
 
 ## 🧾 Información General
 
