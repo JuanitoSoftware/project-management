@@ -1,5 +1,5 @@
 
-# 🔁 EasyBatcher Core - `batch_processor.py`
+# 🔁 SpringlessEasyBatch - Ficha Técnica
 
 ### Núcleo reutilizable para procesamiento en lote de entidades Python
 
