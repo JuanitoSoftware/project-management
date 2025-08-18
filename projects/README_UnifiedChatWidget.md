@@ -23,8 +23,8 @@ Está desarrollada en **Node.js** con servidor **Express + WebSocket**, e integr
 - 🗂️ Historial de mensajes persistente en `messages/latest.json`.  
 - 🗣️ Sistema **TTS en español** mediante servidor **Flask + TTS.api**.  
 - 🎛️ **Comandos de control desde chat:**  
-  - `/TTS_ON` → Activar locución (solo admins autorizados).  
-  - `/TTS_OFF` → Desactivar locución.  
+  - `\TTS_ON` → Activar locución (solo admins autorizados).  
+  - `\TTS_OFF` → Desactivar locución.  
 - 🔒 Lista de **administradores autorizados** para controlar TTS.  
 - 🚫 Ignora comandos y prefijos especiales (`/`, `!`) para evitar lecturas innecesarias.  
 - ⚡ Compatible con **Windows, Linux y macOS**.  
