@@ -15,7 +15,8 @@ Este repositorio contiene la  gestión de proyectos, planificación, seguimiento
 - [🎬 MatrixEffect](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/MatrixEffect)
 - [🎶 YoutubeToMp3](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/YoutubeToMp3)
 - [🎶 ConvertidorAudio](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/FFMPEG_UI)
-- [ConwayLifeSimulation](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Node_js/unified-chat-widget)
+- [🎧 UnifiedChatWidget](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Node_js/unified-chat-widget)
+- [ConwayLifeSimulation](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/Conway_Life_Simulation)
 - ...
 
 Cada proyecto cuenta con su ficha técnica detallada en la carpeta `/projects`.
