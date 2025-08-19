@@ -14,7 +14,6 @@ Combina servidor HTTP + WebSocket, persistencia de mensajes en JSON y un sistema
 
 ## 📦🛠️ Características principales
 
-U
 - 🌐 Unificación de chats de Twitch, YouTube y Kick.
 - 💻 Widget HTML para incrustar en OBS como fuente de navegador.
 - 🔄 Comunicación en tiempo real mediante WebSockets.
@@ -30,7 +29,7 @@ U
 
 ---
 
-🔧 Requisitos
+##🔧 Requisitos
 
 - Node.js 18 o superior.
 - OBS Studio para incrustar el widget.
