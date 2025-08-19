@@ -39,23 +39,22 @@ Combina servidor HTTP + WebSocket, persistencia de mensajes en JSON y un sistema
 ---
 
 ## 📚 Estructura del proyecto
-
-unified-chat-widget/
-├── libs/
-│   └── kick-js
-├── utils/
-│   └── saveMessage.js
-├── package.json
-├── .env
-├── index.js
-├── services/
-│   ├── twitch.js
-│   ├── youtube.js
-│   └── kick.js
-├── public/
-│   └── chat.html
-└── messages/
-    └── latest.json
+- unified-chat-widget/
+- ├── libs/
+- │   └── kick-js
+- ├── utils/
+- │   └── saveMessage.js
+- ├── package.json
+- ├── .env
+- ├── index.js
+- ├── services/
+- │   ├── twitch.js
+- │   ├── youtube.js
+- │   └── kick.js
+- ├── public/
+- │   └── chat.html
+- └── messages/
+-     └── latest.json
 
 - index.js → Servidor principal, manejo de WebSockets y TTS.
 - services/ → Conexiones con cada plataforma (Twitch, YouTube, Kick).
