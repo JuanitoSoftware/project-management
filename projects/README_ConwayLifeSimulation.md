@@ -27,9 +27,9 @@ ConwayGameApp es una aplicación de consola desarrollada en Python que implement
 
 🔧 Requisitos
 
--Python 3.8 o superior
-
--Sistema operativo: Windows
+- 🔧 Manejo de errores robusto: Detecta problemas al ejecutar el efecto Matrix y continúa la simulación sin interrupciones.
+- Python 3.8 o superior
+- Sistema operativo: Windows
 
 Dependencias principales:
 
@@ -44,3 +44,10 @@ Módulo	          Descripción
 
 © 2025 JuanitoSoftware
 
+---
+
+📬 Contacto
+
+📧 bernaldezperedaj@gmail.com
+
+---
