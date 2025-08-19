@@ -1,4 +1,4 @@
-# 📟 Juego de la Vida  
+##📟🖥️ Juego de la Vida – Ficha Técnica  
 
 **Licencia:** GNU GPLv3  
 
@@ -6,24 +6,39 @@
 
 ## 🧾 Descripción  
 
-**Juego de la Vida** es una aplicación de consola desarrollada en **Python** que implementa el autómata celular de **Conway's Game of Life**, con una cuadrícula de gran tamaño y patrones iniciales distribuidos aleatoriamente.  
-
-Antes de iniciar la simulación, se integra un efecto visual estilo **Matrix** (`matrix_effect.exe`) que añade una presentación inmersiva.  
+**Juego de la Vida** es una aplicación de consola desarrollada en **Python** que implementa el autómata celular “Juego de la Vida” de John Conway.
+ConwayGameApp es una aplicación de consola desarrollada en Python que implementa el autómata celular “Juego de la Vida” de John Conway. Permite simular patrones clásicos de células vivas y muertas en una cuadrícula de gran tamaño con actualización en tiempo real, ofreciendo además un efecto visual inicial inspirado en Matrix para mejorar la experiencia del usuario
 
 ---
 
-## 🛠️ Características principales  
+## 📦🛠️ Características principales
 
 - 🟩 **Efecto inicial Matrix** (`matrix_effect.exe`) antes de la simulación.  
 - 🎲 **Patrones clásicos**: Block, Beehive, Blinker, Toad y Glider.  
-- 🔄 **Simulación iterativa** del Juego de la Vida con las 4 reglas originales de Conway.  
+- 🔄 **Simulación iterativa** del Juego de la Vida con las 4 reglas originales de Conway (supervivencia, nacimiento, muerte por soledad o sobrepoblación).
 - 📺 **Visualización en consola** con símbolos (`O` para celdas vivas, `.` para muertas).  
 - ⏱️ **Ejecución configurable**: tamaño de cuadrícula, número de turnos y delay entre generaciones.  
-- 🖥️ **Compatible con Windows, macOS y Linux**.  
+- 🖥️ **Compatible con Windows, macOS y Linux**. Aunque solo se proporciona ejecutable para windows
+- 🧩 Generación aleatoria de patrones: Coloca múltiples copias de cada patrón en posiciones aleatorias dentro de la cuadrícula.
+- ⚡ Ejecución rápida y ligera: Optimizado para consola sin requerir interfaz gráfica compleja.
+- 🔧 Manejo de errores robusto: Detecta problemas al ejecutar el efecto Matrix y continúa la simulación sin interrupciones.
 
 ---
 
-## 🗃️ Estructura de archivos  
+🔧 Requisitos
+
+-Python 3.8 o superior
+
+-Sistema operativo: Windows
+
+Dependencias principales:
+
+Módulo	          Descripción
+-os          -->  Gestión de rutas y comandos del sistema
+-sys	       -->  Detección de entorno de ejecución (PyInstaller)
+-subprocess  -->  Ejecución de procesos externos (matrix_effect.exe)
+-time        -->  Control de retrasos entre turnos
+-random      -->  Generación aleatoria de patrones y posiciones
 
 ---
 
