@@ -39,8 +39,15 @@ Dependencias principales:
 - subprocess  -->  Ejecución de procesos externos (matrix_effect.exe)
 - time        -->  Control de retrasos entre turnos
 - -random      -->  Generación aleatoria de patrones y posiciones
-  
+
 ---
+
+## 📃 Licencia
+
+Este programa es software libre: puedes redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU, versión 3 o cualquier versión posterior.
+
+Consulta la licencia completa para más detalles.
+Más información: [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
 
 © 2025 JuanitoSoftware
 
