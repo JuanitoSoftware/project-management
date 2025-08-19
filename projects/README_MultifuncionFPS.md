@@ -86,13 +86,6 @@ pip install pillow pywin32 opencv-python numpy mss keyboard ultralytics
 
 ---
 
-## Contacto
-
-**Autor:** JuanitoSoftware&Games  
-**Ubicación:** Santa Maria de Cayon, Cantabria, España  
-
----
-
 ## Opinión personal
 
 Este software es un ejemplo sobresaliente de herramientas gamer con superposición visual avanzada, personalización total, y visión por computador. Su arquitectura modular permite ampliaciones futuras (grabación de clips, integración con OBS, IA contextual, etc.). Está optimizado para entornos Windows y es ideal para jugadores.
