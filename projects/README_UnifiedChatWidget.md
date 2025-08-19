@@ -1,7 +1,5 @@
 # 💬 Unified Chat Widget + TTS - Ficha Técnica  
 
-**Desarrollado por JuanitoSoftware&Games – 2025**  
-
 **Licencia:** Uso No Comercial  
 
 ---
@@ -32,4 +30,7 @@ Está desarrollada en **Node.js** con servidor **Express + WebSocket**, e integr
 ---
 
 ## 🗃️ Estructura de archivos  
+
+---
+© 2025 JuanitoSoftware
 
