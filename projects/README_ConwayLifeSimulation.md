@@ -1,6 +1,5 @@
 # 📟 Juego de la Vida  
 
-**Desarrollado por JuanitoSoftware&Games – 2025**  
 **Licencia:** GNU GPLv3  
 
 ---
@@ -25,4 +24,8 @@ Antes de iniciar la simulación, se integra un efecto visual estilo **Matrix** (
 ---
 
 ## 🗃️ Estructura de archivos  
+
+---
+
+© 2025 JuanitoSoftware
 
