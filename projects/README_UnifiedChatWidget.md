@@ -38,7 +38,7 @@ Combina servidor HTTP + WebSocket, persistencia de mensajes en JSON y un sistema
 
 ---
 
-📚 Estructura del proyecto
+## 📚 Estructura del proyecto
 
 unified-chat-widget/
 ├── libs/
