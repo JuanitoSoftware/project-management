@@ -27,19 +27,19 @@ ConwayGameApp es una aplicación de consola desarrollada en Python que implement
 
 ## 🔧 Requisitos  
 
-- 🔧 Manejo de errores robusto: Detecta problemas al ejecutar el efecto Matrix y continúa la simulación sin interrupciones.
+- Manejo de errores robusto: Detecta problemas al ejecutar el efecto Matrix y continúa la simulación sin interrupciones.
 - Python 3.8 o superior
 - Sistema operativo: Windows
 
 Dependencias principales:
 
-Módulo	          Descripción
--os          -->  Gestión de rutas y comandos del sistema
--sys	       -->  Detección de entorno de ejecución (PyInstaller)
--subprocess  -->  Ejecución de procesos externos (matrix_effect.exe)
--time        -->  Control de retrasos entre turnos
--random      -->  Generación aleatoria de patrones y posiciones
-
+- Módulo	          Descripción
+- os          -->  Gestión de rutas y comandos del sistema
+- sys	       -->  Detección de entorno de ejecución (PyInstaller)
+- subprocess  -->  Ejecución de procesos externos (matrix_effect.exe)
+- time        -->  Control de retrasos entre turnos
+- -random      -->  Generación aleatoria de patrones y posiciones
+  
 ---
 
 © 2025 JuanitoSoftware
