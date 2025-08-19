@@ -29,7 +29,7 @@ Combina servidor HTTP + WebSocket, persistencia de mensajes en JSON y un sistema
 
 ---
 
-##🔧 Requisitos
+## 🔧 Requisitos
 
 - Node.js 18 o superior.
 - OBS Studio para incrustar el widget.
