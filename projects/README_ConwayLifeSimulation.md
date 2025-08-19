@@ -25,16 +25,7 @@ ConwayGameApp es una aplicación de consola desarrollada en Python que implement
 
 ---
 
----
-
-## 🧾 Descripción  
-
-**Juego de la Vida** es una aplicación de consola desarrollada en **Python** que implementa el autómata celular “Juego de la Vida” de John Conway.
-ConwayGameApp es una aplicación de consola desarrollada en Python que implementa el autómata celular “Juego de la Vida” de John Conway. Permite simular patrones clásicos de células vivas y muertas en una cuadrícula de gran tamaño con actualización en tiempo real, ofreciendo además un efecto visual inicial inspirado en Matrix para mejorar la experiencia del usuario
-
----
-
-🔧 Requisitos
+## 🔧 Requisitos  
 
 - 🔧 Manejo de errores robusto: Detecta problemas al ejecutar el efecto Matrix y continúa la simulación sin interrupciones.
 - Python 3.8 o superior
