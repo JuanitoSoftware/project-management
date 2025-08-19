@@ -64,7 +64,7 @@ unified-chat-widget/
 
 ---
 
-🛠️ Dependencias principales
+## 🛠️ Dependencias principales
 
 | Módulo                 | Descripción                                         |
 | ---------------------- | --------------------------------------------------- |
@@ -77,7 +77,7 @@ unified-chat-widget/
 
 ---
 
-🚀 Instalación
+## 🚀 Instalación
 
 1.Clonar repositorio:
 
@@ -92,7 +92,7 @@ npm install express tmi.js dotenv axios @pagoru/kick_live_ws
 
 ---
 
-▶️ Ejecución
+## ▶️ Ejecución
 
 node index.js
 
