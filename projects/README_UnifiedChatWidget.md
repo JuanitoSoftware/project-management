@@ -10,8 +10,11 @@ Unified Chat Widget es una aplicación desarrollada en Node.js que permite centr
 
 Combina servidor HTTP + WebSocket, persistencia de mensajes en JSON y un sistema de TTS opcional para crear una experiencia interactiva completa.
 
-📦🛠️ Características principales
+---
 
+## 📦🛠️ Características principales
+
+U
 - 🌐 Unificación de chats de Twitch, YouTube y Kick.
 - 💻 Widget HTML para incrustar en OBS como fuente de navegador.
 - 🔄 Comunicación en tiempo real mediante WebSockets.
