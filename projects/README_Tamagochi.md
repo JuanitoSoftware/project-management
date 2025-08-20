@@ -1,6 +1,6 @@
-## 📦 🐣 Tamagotchi - Ficha Técnica
+## 📦 🐣 Tamagochi - Ficha Técnica
 
-Tamagotchi es un juego por consola desarrollado en Python que simula la experiencia de cuidar una mascota virtual.
+Tamagochi es un juego por consola desarrollado en Python que simula la experiencia de cuidar una mascota virtual.
 El usuario puede crear personajes únicos, alimentarlos, hacerlos jugar, ver cómo crecen y observar cómo cambian sus estados de ánimo según las acciones realizadas y su evolución.
 
 ## 📦 Características principales
