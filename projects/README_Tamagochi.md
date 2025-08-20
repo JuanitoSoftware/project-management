@@ -1,9 +1,11 @@
-🐣 TamagotchiCLI - Ficha Técnica
+--
+## 📦 🐣 TamagotchiCLI - Ficha Técnica
 
 TamagotchiCLI es un juego por consola desarrollado en Python que simula la experiencia de cuidar una mascota virtual.
 El usuario puede crear personajes únicos, alimentarlos, hacerlos jugar, ver cómo crecen y observar cómo cambian sus estados de ánimo según las acciones realizadas y su evolución.
 
-📦 Características principales
+--
+## 📦 Características principales
 
 Creación y gestión de múltiples personajes.
 
@@ -29,7 +31,9 @@ Menú interactivo en consola con opciones claras: crear, elegir, ver, eliminar p
 
 Estados de ánimo actualizados en tiempo real según las condiciones del personaje.
 
-🔧 Requisitos
+---
+
+## 🔧 Requisitos
 Python
 
 Python 3.8 o superior
@@ -37,6 +41,42 @@ Python 3.8 o superior
 Dependencias principales
 (solo librerías estándar de Python)
 
-Módulo	Descripción
-random	Elección aleatoria de colores, estados y valores iniciales
-time	Simulación de pausas con sleep para mayor realismo
+| Módulo   | Descripción                                                |
+| -------- | ---------------------------------------------------------- |
+| `random` | Elección aleatoria de colores, estados y valores iniciales |
+| `time`   | Simulación de pausas con `sleep` para mayor realismo       |
+
+---
+
+## 🚀 Instalación
+
+1. Clona el repositorio:
+
+git clone https://github.com/tuusuario/TamagotchiCLI.git
+cd TamagotchiCLI
+
+2. Ejecuta el juego:
+
+python tamagotchi.py
+
+---
+
+## ▶️ Uso
+
+Al iniciar, se muestra una guía con las instrucciones.
+
+El jugador puede crear uno o varios personajes.
+
+Selecciona un personaje y realiza acciones con él.
+
+Supervisa energía, hambre y felicidad para evitar que muera.
+
+---
+
+## 📃 Licencia
+Este programa es software libre: puedes redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU, versión 3 o cualquier versión posterior.
+Más información: https://www.gnu.org/licenses/gpl-3.0.html
+
+---
+
+
