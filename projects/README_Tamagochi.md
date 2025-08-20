@@ -63,12 +63,19 @@ python tamagotchi.py
 - Selecciona un personaje y realiza acciones con él.
 - Supervisa energía, hambre y felicidad para evitar que muera.
 
----
-
 ## 📃 Licencia
+
 Este programa es software libre: puedes redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU, versión 3 o cualquier versión posterior.
-Más información: https://www.gnu.org/licenses/gpl-3.0.html
+
+Consulta la licencia completa para más detalles.
+Más información: [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
+
+© 2025 JuanitoSoftware
 
 ---
 
+## 📬 Contacto
 
+📧 bernaldezperedaj@gmail.com
+
+---
