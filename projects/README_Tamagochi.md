@@ -1,6 +1,6 @@
-## 📦 🐣 TamagotchiCLI - Ficha Técnica
+## 📦 🐣 Tamagotchi - Ficha Técnica
 
-TamagotchiCLI es un juego por consola desarrollado en Python que simula la experiencia de cuidar una mascota virtual.
+Tamagotchi es un juego por consola desarrollado en Python que simula la experiencia de cuidar una mascota virtual.
 El usuario puede crear personajes únicos, alimentarlos, hacerlos jugar, ver cómo crecen y observar cómo cambian sus estados de ánimo según las acciones realizadas y su evolución.
 
 ## 📦 Características principales
@@ -52,7 +52,7 @@ Dependencias principales
 
 2. Ejecuta el juego:
 
-python tamagotchi.py
+- python tamagotchi.py
 
 ---
 
