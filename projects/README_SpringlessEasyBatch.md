@@ -173,7 +173,7 @@ Este programa tiene un licencia perosnalizada de uso no comercial
 Consulta la licencia completa para más detalles.
 Más información: [LICENSE.txt](./LICENSE.txt)
 
-© 2025 JuanitoSoftware&Games
+© 2025 JuanitoSoftware
 
 ## 📬 Contacto
 
