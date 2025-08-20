@@ -52,8 +52,8 @@ Dependencias principales
 
 1. Clona el repositorio:
 
-git clone https://github.com/tuusuario/TamagotchiCLI.git
-cd TamagotchiCLI
+git clone https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/Simulaciones/Tamagochi
+cd Tamagotchi
 
 2. Ejecuta el juego:
 
