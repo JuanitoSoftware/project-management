@@ -16,8 +16,8 @@ Este repositorio contiene la  gestión de proyectos, planificación, seguimiento
 - [🎶 YoutubeToMp3](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/YoutubeToMp3)
 - [🎶 ConvertidorAudio](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/FFMPEG_UI)
 - [🎧 UnifiedChatWidget](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Node_js/unified-chat-widget)
-- [ConwayLifeSimulation](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/Simulaciones/Conway_Life_Simulation)
-- [Tamagochi](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/Simulaciones/Tamagochi)
+- [🎬 ConwayLifeSimulation](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/Simulaciones/Conway_Life_Simulation)
+- [🎮 Tamagochi](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/Simulaciones/Tamagochi)
 - ...
 
 Cada proyecto cuenta con su ficha técnica detallada en la carpeta `/projects`.
