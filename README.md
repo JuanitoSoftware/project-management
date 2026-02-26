@@ -17,7 +17,14 @@ Este repositorio contiene la  gestión de proyectos, planificación, seguimiento
 - [🎶 ConvertidorAudio](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/FFMPEG_UI)
 - [🎧 UnifiedChatWidget](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Node_js/unified-chat-widget)
 - [🎬 ConwayLifeSimulation](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/Simulaciones/Conway_Life_Simulation)
-- [🎮 Tamagochi](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/Simulaciones/Tamagochi)
+- [📻RadioStack](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Java/RadioStack)
+- [AstroSim](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/AstroSim)
+- [🎮GameChat](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/GameChat)
+- [TuneAnimation](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/TunelAnimation)
+- [VocoderSynth](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/VocoderSynth)
+- [FTP and WEB servers Python](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/MisServidores)
+- [FTP and WEB servers Rust](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Rust/MisServidores)
+- [MotorIndexado Rust](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Rust/motorIndexado)
 - ...
 
 Cada proyecto cuenta con su ficha técnica detallada en la carpeta `/projects`.
