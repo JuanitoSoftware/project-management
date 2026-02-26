@@ -20,7 +20,7 @@ Este repositorio contiene la  gestión de proyectos, planificación, seguimiento
 - [📻RadioStack](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Java/RadioStack)
 - [AstroSim](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/AstroSim)
 - [🎮GameChat](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/GameChat)
-- [TuneAnimation](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/TunelAnimation)
+- [TunelAnimation](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/TunelAnimation)
 - [VocoderSynth](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/VocoderSynth)
 - [FTP and WEB servers Python](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Python/MisServidores)
 - [FTP and WEB servers Rust](https://github.com/Juanito-Software/Proyectos-Software/tree/main/Juanito_Software/Rust/MisServidores)
